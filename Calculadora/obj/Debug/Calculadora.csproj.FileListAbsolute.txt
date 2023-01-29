@@ -1,0 +1,8 @@
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\VS\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\VS\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\VS\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\VS\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\VS\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\VS\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\VS\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\VS\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
